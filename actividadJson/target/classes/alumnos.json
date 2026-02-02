@@ -1,0 +1,19 @@
+{
+  "curso": "2º DAM",
+  "alumnos": [
+    {
+      "id": 1,
+      "nombre": "Ana López",
+      "edad": 20,
+      "modulos": ["DI", "AD", "PMDM"],
+      "repetidor": false
+    },
+    {
+      "id": 2,
+      "nombre": "Luis García",
+      "edad": 22,
+      "modulos": ["DI", "PSP"],
+      "repetidor": true
+    }
+  ]
+}
